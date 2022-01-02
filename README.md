@@ -9,7 +9,7 @@ By most standards, I suck at programming, but I really enjoy doing and learning 
 
 One Final thing; **I don't like cats**, but here's a random cat photo because it's the internet and I can.
 
-![image](https://media.istockphoto.com/photos/orange-kitten-gets-ready-to-pounce-in-the-grass-picture-id144222556?k=6&m=144222556&s=612x612&w=0&h=5uv06D6BKLxqaXWkNkAEadTbUXoOBvXBlix2Wm9z0Ig=)
+![image](https://user-images.githubusercontent.com/88910996/147890012-8bb28080-3116-4b00-b100-ebd9fa780b22.png)
 
 <!---
 tobypiv/tobypiv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
