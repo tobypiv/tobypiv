@@ -1,4 +1,4 @@
-## about me
+## Tobypiv
 
 - 👋 Hi, I’m @tobypiv
 - 👀 I’m interested in: *you guessed it - **programming***, electronics, retro computers and other stuff that I don't want to type because no one will even read this.
