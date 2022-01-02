@@ -1,3 +1,5 @@
+## about me
+
 - 👋 Hi, I’m @tobypiv
 - 👀 I’m interested in: *you guessed it - **programming***, electronics, retro computers and other stuff that I don't want to type because no one will even read this.
 - 🌱 I’m currently learning: *programming*, but specifically JavaScript and most things related including, TS, Nodejs and Im waiting for the motivation to learn WebGL 
