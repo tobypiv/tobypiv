@@ -7,6 +7,10 @@
 
 By most standards, I suck at programming, but I really enjoy doing and learning it. The only reason I'm on Github is it's a convenient place to store my code, and it sounds cool if you say *my code's on Github* :P 
 
+One Final thing; I don't like cats, but here's a random cat photo because it's the internet and I can.
+
+![image](https://user-images.githubusercontent.com/88910996/147889911-3529775a-6ad3-4f56-90f4-4350f34e9997.png)
+
 <!---
 tobypiv/tobypiv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
