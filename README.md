@@ -2,10 +2,12 @@
 
 - 👋 Hi, I’m @tobypiv
 - 👀 I’m interested in: *you guessed it - **programming***, electronics, retro computers and other stuff that I don't want to type because no one will even read this.
-- 🌱 I’m currently learning: *programming*, but specifically JavaScript and most things related including, TS, Nodejs and Im waiting for the motivation to learn WebGL 
+- 🌱 I’m currently learning: *programming*, but specifically C and C++
 - 📫 How to reach me: **please don't**
 
-By most standards, I suck at programming, but I really enjoy doing and learning it. The only reason I'm on Github is it's a convenient place to store my code, and it sounds cool if you say *my code's on Github* :P 
+I am most profficent in JS, and React.
+
+I enjoy programming and learning programming. The only reason I'm on Github is it's a convenient place to store my code, and it sounds cool if you say *my code's on Github* :P 
 
 One Final thing; **I don't like cats**, but here's a random cat photo because it's the internet and I can.
 
